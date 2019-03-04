@@ -1,0 +1,16 @@
+SMAP
+selectquery_jsp.java
+JSP
+*S JSP
+*F
++ 0 selectquery.jsp
+selectquery.jsp
+*L
+5,20:45
+25,8:66
+32,2:74
+34,4:76,3
+38,2:88
+40,6:91
+45,5:97
+*E
